@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cae95d28.css",
+    "main.js": "/static/js/main.0641fd21.js",
+    "static/js/787.48880414.chunk.js": "/static/js/787.48880414.chunk.js",
+    "static/media/background.jpg": "/static/media/background.3390ab6403f61adf3d42.jpg",
+    "static/media/space-grotesk-all-400-normal.woff": "/static/media/space-grotesk-all-400-normal.625410290983f0e0895a.woff",
+    "static/media/logo.png": "/static/media/logo.ff1b45e3278671a9ae64.png",
+    "static/media/space-grotesk-latin-400-normal.woff2": "/static/media/space-grotesk-latin-400-normal.0a4ba2bd1f7894e1cc0b.woff2",
+    "static/media/space-grotesk-latin-ext-400-normal.woff2": "/static/media/space-grotesk-latin-ext-400-normal.05e3af65b5da2af347ad.woff2",
+    "static/media/space-grotesk-vietnamese-400-normal.woff2": "/static/media/space-grotesk-vietnamese-400-normal.799f8d2e84c3f8dd8ca1.woff2",
+    "index.html": "/index.html",
+    "main.cae95d28.css.map": "/static/css/main.cae95d28.css.map",
+    "main.0641fd21.js.map": "/static/js/main.0641fd21.js.map",
+    "787.48880414.chunk.js.map": "/static/js/787.48880414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae95d28.css",
+    "static/js/main.0641fd21.js"
+  ]
+}
