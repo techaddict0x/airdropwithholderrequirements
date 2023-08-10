@@ -121,6 +121,19 @@ contract Airdrop is Claimable {
         approveToken = IERC20(_aproveTokenAddress);
     }
 
+
+    function changetokenaddress(address _tokenAddress) public onlyOwner {
+        token = IERC20(_tokenAddress);
+    }
+
+    function changeapprovetokenaddress(address _aproveTokenAddress) public onlyOwner {
+        approveToken = IERC20(_aproveTokenAddress);
+    }
+
+    function changeAirdropAmount(uint256 _amount) public onlyOwner {
+        airDropAmount = _amount;
+    }
+
     function deposit(uint256 _amount) public {
         require(
             token.transferFrom(msg.sender, address(this), _amount),
